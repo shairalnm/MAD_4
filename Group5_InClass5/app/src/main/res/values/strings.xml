@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group5_InClass5</string>
+    <string name="keyword_hint">Show Category</string>
+    <string name="go">Go</string>
+    <string name="choose">Choose a Keyword</string>
+    <string name="Loading">Loading Dictionary</string>
+    <string name="Loading_photo">Loading Photo</string>
+</resources>
